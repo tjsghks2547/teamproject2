@@ -5,7 +5,10 @@
 
 int main()
 {
-    int a = 44444;
+
+    int a = 4;
+    int b = 1; 
+
 
     std::cout << "Hello World!\n";
 }
